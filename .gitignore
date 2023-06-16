@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+
+# Maven target directory and build files
+target/
+*.jar
+*.war
+*.ear
+*.class
+
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# Logs and temporary files
+logs/
+temp/
+tmp/
+*.log
+*.swp
+.DS_Store
